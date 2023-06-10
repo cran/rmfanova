@@ -1,0 +1,8 @@
+3cc5f273f71762759730ec3e3e590c17 *DESCRIPTION
+923ba636d8e7e3742b90ed3970647bee *NAMESPACE
+015ee7fafbb5f95f0909c926e71651d8 *R/rmfanova.R
+ac6cd01cbd6d1b1a6eabbc2f830ca52b *man/pointwise_f_test_statistic.Rd
+acabbba4f116744c4b9b87d1508865b1 *man/pointwise_sample_mean_fun.Rd
+ba7a993444922138a2dfa56c370071e9 *man/pointwise_ssa_test_statistic.Rd
+869cb4c016f6d86b234cda43fb474e03 *man/rmfanova.Rd
+e33930a5f4da0db8fdf22e17add29fc1 *man/summary.rmfanova.Rd
